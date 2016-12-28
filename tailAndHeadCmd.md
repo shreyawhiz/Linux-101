@@ -51,3 +51,7 @@ As tail and head commands print different parts of files in an effective way, we
 Ex. To print 15th line to 20th line in /etc/passwd file use below example.
 
 `head -n 20 /etc/passwd | tail -n 5`
+
+
+
+Link : https://www.linux.com/blog/14-tail-and-head-commands-linuxunix
